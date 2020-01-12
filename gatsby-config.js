@@ -1,5 +1,4 @@
 module.exports = {
-  pathPrefix: "/bucchianico",
   siteMetadata: {
     title: `Bucchianico.net`,
     description: `Il sito internet dell'Associazione "Bucchianico.net" che promuove a livello artistico e culturale la città di Bucchianico, in Abruzzo.`,
